@@ -173,6 +173,10 @@
 <div style="font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; color: #8b949e;">OSS PRs in review</div>
 </div>
 
+<div style="flex: 1 1 100%; border-top: 1px solid #21262d; margin-top: 14px; padding: 12px 4px 2px; text-align: center; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; color: #8b949e;">
+<span style="letter-spacing: 0.04em; text-transform: uppercase;">languages</span> &nbsp;&middot;&nbsp; Java · Python · TypeScript · C · JavaScript
+</div>
+
 </div>
 
 <p align="center" style="margin: 10px 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; color: #484f58;">auto-refreshed weekly via GitHub Actions &middot; commits &amp; repositories counted across non-fork repos</p>
